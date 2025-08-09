@@ -30,23 +30,20 @@ Finally, I visualise the data as an interactive 3-page dashboard in PowerBI. I a
 
 
 
-**Project Files**
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
 
-There are 3 project files (1 SQL, 1 PowerBI and 1 PDF) and 5 data table files (4 CSVs and 1 Excel Worksheet) in this repository.
+This repository is for educational and professional showcase purposes only.
 
-I am unable to upload the full "AdventureWorks Data Warehouse version 2019" file (99 MB) here on my GitHub due to file size limit of 25 MB. Here is the download link to the original dataset on Microsoft's GitHub: https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak (Original Microsoft Learn link is available in my SQL script file.)
+❌ No downloading
 
-This file is in backup file format (.bak) so I went into Microsoft SQL Server Management Studio and restored the backup file, allowing access to the full dataset. I then ran this SQL script by TechTalkCorner to update some columns like dates in the dataset: https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql
+❌ No copying
 
-With that, I began my SQL querying and analysis.
+❌ No modifying
 
+❌ No redistribution
 
+❌ No commercial use
 
-**Future Project Aim**
-
-In addition to SQL and R, I have now started learning Python. Once I improve my Python knowledge sufficiently, I aim to set up and automate this process as a system, where data is pulled from a database, cleaned and organised into a format suitable for visualisation, visualised in a dashboard, the dashboard is exported as a PDF and the PDF is emailed to concerned stakeholders automatically.
-
-The entire process should be autonomous and require almost zero human attention, with the exception of regular checks to verify the proper functioning of the process and the accuracy of the results.
-
-Statement to self - New Year's Resolution: As of January 2023, I intend to achieve this level of proficiency in Python (and if possible, complete this full project and upload here to GitHub) at most within the end of 2023, allowing for unforeseen constraints, though I hope to achieve it sooner.
-
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
