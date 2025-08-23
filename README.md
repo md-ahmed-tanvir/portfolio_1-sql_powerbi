@@ -10,7 +10,7 @@ The 4 CSV data tables are the output of the SQL queries, where I clean the table
 
 Once the cleaned data tables have been exported as CSVs, I import the 4 CSVs and the Excel worksheet into PowerBI, where I link the tables together in the "Model" side tab:
 
-![portfolio_1-image-data_model](https://user-images.githubusercontent.com/122973220/213426036-5aa569b0-9f8d-4b82-bbb2-2d242e2c7e09.jpg)
+![portfolio_1-image-data_model](https://github.com/md-ahmed-tanvir/portfolio_1-sql_powerbi/blob/main/213426036-5aa569b0-9f8d-4b82-bbb2-2d242e2c7e09.jpg)
 
 I then further process the data in Power Query ("Transform data" on the Home tab), renaming columns, changing columns' data type etc. and bring the columns into a format suitable for visualisation.
 
